@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Sagar Baronia</title>
+    <link>https://sagar-baronia.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Sagar Baronia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Nov 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://sagar-baronia.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project - Quora Questions Pairs</title>
+      <link>https://sagar-baronia.github.io/post/project-1/</link>
+      <pubDate>Fri, 12 Nov 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/post/project-1/</guid>
+      <description>Quora is a place to gain and share knowledge—about anything. It’s a platform to ask questions and connect with people who contribute unique insights and quality answers. This empowers people to learn from each other and to better understand the world. Over 100 million people visit Quora every month, so it&amp;rsquo;s no surprise that many people ask similarly worded questions. Multiple questions with the same intent can cause seekers to spend more time finding the best answer to their question, and make writers feel they need to answer multiple versions of the same question.</description>
+    </item>
+    
+    <item>
+      <title>Project - DonorsChoose</title>
+      <link>https://sagar-baronia.github.io/post/project-2/</link>
+      <pubDate>Tue, 12 Oct 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/post/project-2/</guid>
+      <description>DonorsChoose.org receives hundreds of thousands of project proposals each year for classroom projects in need of funding. Right now, a large number of volunteers is needed to manually screen each submission before it&amp;rsquo;s approved to be posted on the DonorsChoose.org website. Next year, DonorsChoose.org expects to receive close to 500,000 project proposals. As a result, there are three main problems they need to solve:
+ How to scale current manual processes and resources to screen 500,000 projects so that they can be posted as quickly and as efficiently as possible How to increase the consistency of project vetting across different volunteers to improve the experience for teachers How to focus volunteer time on the applications that need the most assistance The goal of the competition is to predict whether or not a DonorsChoose.</description>
+    </item>
+    
+    <item>
+      <title>Project - Netflix Movie Recommendation</title>
+      <link>https://sagar-baronia.github.io/post/project-3/</link>
+      <pubDate>Sun, 12 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/post/project-3/</guid>
+      <description>Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while Cinematch is doing pretty well, it can always be made better.</description>
+    </item>
+    
+    <item>
+      <title>Project - Penguin Species Classification</title>
+      <link>https://sagar-baronia.github.io/post/project-4/</link>
+      <pubDate>Thu, 12 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/post/project-4/</guid>
+      <description>Using Streamlit, I wanted to design a simple web application. That let user input the data either through the interface of the page or through a csv file. Dataset providing details like island, gender, bill length, bill depth, flipper length, gender and body mass of the penguin, my task was to build an ML based model that predicts the species of the penguin. Using Heroku, I deployed the web application. Please Click Here to have a look at the deployed version.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://sagar-baronia.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sagar-baronia.github.io/contact/</guid>
+      <description>   Platform Link     Linkedin : Click here to Connect   Github : Click here to View   Email : sagarbadonia@gmail.com   Contact : +1 (765) 426-4680    </description>
+    </item>
+    
+  </channel>
+</rss>
